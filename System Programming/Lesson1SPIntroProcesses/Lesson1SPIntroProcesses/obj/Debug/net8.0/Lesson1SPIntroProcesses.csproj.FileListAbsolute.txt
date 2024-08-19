@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\bin\Debug\net8.0\Lesson1SPIntroProcesses.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\bin\Debug\net8.0\Lesson1SPIntroProcesses.deps.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\bin\Debug\net8.0\Lesson1SPIntroProcesses.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\bin\Debug\net8.0\Lesson1SPIntroProcesses.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\bin\Debug\net8.0\Lesson1SPIntroProcesses.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\refint\Lesson1SPIntroProcesses.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\Lesson1SPIntroProcesses.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson1SPIntroProcesses\Lesson1SPIntroProcesses\obj\Debug\net8.0\ref\Lesson1SPIntroProcesses.dll
