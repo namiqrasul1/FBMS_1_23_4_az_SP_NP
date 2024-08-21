@@ -1,0 +1,7 @@
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\bin\Debug\Lesson2AppDomain.exe.config
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\bin\Debug\Lesson2AppDomain.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\bin\Debug\Lesson2AppDomain.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\obj\Debug\Lesson2AppDomain.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\obj\Debug\Lesson2AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\obj\Debug\Lesson2AppDomain.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomain\Lesson2AppDomain\obj\Debug\Lesson2AppDomain.pdb

@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\bin\Debug\net8.0\Lesson2AppDomainThread.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\bin\Debug\net8.0\Lesson2AppDomainThread.deps.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\bin\Debug\net8.0\Lesson2AppDomainThread.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\bin\Debug\net8.0\Lesson2AppDomainThread.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\bin\Debug\net8.0\Lesson2AppDomainThread.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\refint\Lesson2AppDomainThread.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\Lesson2AppDomainThread.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\System Programming\Lesson2AppDomainThread\Lesson2AppDomainThread\obj\Debug\net8.0\ref\Lesson2AppDomainThread.dll
