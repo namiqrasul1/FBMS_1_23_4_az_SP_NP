@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson4CriticalSectionsInterlockMonitorLock\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7C02852-59AA-40DB-9CD2-D1C141F71211}|Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson4criticalsectionsinterlockmonitorlock\\lesson4criticalsectionsinterlockmonitorlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C02852-59AA-40DB-9CD2-D1C141F71211}|Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock.csproj|solutionrelative:lesson4criticalsectionsinterlockmonitorlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7C02852-59AA-40DB-9CD2-D1C141F71211}|Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson4criticalsectionsinterlockmonitorlock\\lesson4criticalsectionsinterlockmonitorlock\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C02852-59AA-40DB-9CD2-D1C141F71211}|Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock.csproj|solutionrelative:lesson4criticalsectionsinterlockmonitorlock\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson4CriticalSectionsInterlockMonitorLock\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock\\Program.cs",
+              "RelativeToolTip": "Lesson4CriticalSectionsInterlockMonitorLock\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:13:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock\\Class1.cs",
               "RelativeDocumentMoniker": "Lesson4CriticalSectionsInterlockMonitorLock\\Class1.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson4CriticalSectionsInterlockMonitorLock\\Lesson4CriticalSectionsInterlockMonitorLock\\Class1.cs",
               "RelativeToolTip": "Lesson4CriticalSectionsInterlockMonitorLock\\Class1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowBoAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T07:20:14.4Z",
               "EditorCaption": ""
