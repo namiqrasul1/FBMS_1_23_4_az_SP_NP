@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\bin\Debug\net8.0\Lesson6AutoResetEventTask.exe
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\bin\Debug\net8.0\Lesson6AutoResetEventTask.deps.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\bin\Debug\net8.0\Lesson6AutoResetEventTask.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\bin\Debug\net8.0\Lesson6AutoResetEventTask.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\bin\Debug\net8.0\Lesson6AutoResetEventTask.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\refint\Lesson6AutoResetEventTask.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\Lesson6AutoResetEventTask.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson6AutoResetEventTask\Lesson6AutoResetEventTask\obj\Debug\net8.0\ref\Lesson6AutoResetEventTask.dll
