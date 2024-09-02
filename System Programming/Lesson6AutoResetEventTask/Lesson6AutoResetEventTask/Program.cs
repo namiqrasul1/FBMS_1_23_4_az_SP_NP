@@ -79,43 +79,72 @@ internal class Program
 
     #region Working
 
-    private static int TaskMethod(string name)
+    //private static int TaskMethod(string name)
+    //{
+    //    Console.WriteLine($"{name} is running. Id: {Thread.CurrentThread.ManagedThreadId} IsThreadPoolThread: {Thread.CurrentThread.IsThreadPoolThread}");
+    //    Thread.Sleep(2000);
+
+    //    return 42;
+    //}
+
+    //static void Main(string[] args)
+    //{
+    //    //var t = new Task<int>(() => TaskMethod("Task 1"));
+    //    //t.Start();
+
+    //    //var result = t.Result;
+    //    //Console.WriteLine(result);
+    //    //Console.WriteLine("salam");
+
+    //    //var t2 = new Task<int>(() => TaskMethod("Task 2"));
+    //    //t2.RunSynchronously();
+    //    //TaskMethod("Main");
+
+    //    //var t1 = new Task<int>(() => TaskMethod("Task2"));
+
+    //    //t1.Start();
+
+    //    //t1.ContinueWith(t =>
+    //    //{
+    //    //    Console.WriteLine($"Result: {t.Result}. Id: {Thread.CurrentThread.ManagedThreadId} IsThreadPoolThread: {Thread.CurrentThread.IsThreadPoolThread}");
+    //    //});
+
+    //    //Console.ReadKey();
+
+
+
+    //}
+
+
+
+    #endregion
+
+    #region Cantinuation
+    private static int TaskMethod(string name, int seconds)
     {
         Console.WriteLine($"{name} is running. Id: {Thread.CurrentThread.ManagedThreadId} IsThreadPoolThread: {Thread.CurrentThread.IsThreadPoolThread}");
-        Thread.Sleep(2000);
+        Thread.Sleep(TimeSpan.FromSeconds(seconds));
 
         return 42;
     }
 
     static void Main(string[] args)
     {
-        //var t = new Task<int>(() => TaskMethod("Task 1"));
-        //t.Start();
+        var task = new Task<int>(() => TaskMethod("task 1", 40));
+        var task1 = new Task<int>(() => TaskMethod("task 2", 3));
 
-        //var result = t.Result;
-        //Console.WriteLine(result);
-        //Console.WriteLine("salam");
+        //task.ContinueWith(t => { Console.WriteLine($"Id: {Thread.CurrentThread.ManagedThreadId} IsThreadPoolThread: {Thread.CurrentThread.IsThreadPoolThread}"); });
 
-        //var t2 = new Task<int>(() => TaskMethod("Task 2"));
-        //t2.RunSynchronously();
-        //TaskMethod("Main");
+        task.Start();
+        task1.Start();
 
-        //var t1 = new Task<int>(() => TaskMethod("Task2"));
-
-        //t1.Start();
-
-        //t1.ContinueWith(t =>
-        //{
-        //    Console.WriteLine($"Result: {t.Result}. Id: {Thread.CurrentThread.ManagedThreadId} IsThreadPoolThread: {Thread.CurrentThread.IsThreadPoolThread}");
-        //});
-
-        //Console.ReadKey();
+        //Task.WhenAll(task, task1).ContinueWith(t => Console.Write("s"));
+        Task.WhenAny(task, task1).ContinueWith(t => Console.Write("s"));
 
 
 
+        Console.ReadKey();
     }
-
-
-
     #endregion
+
 }

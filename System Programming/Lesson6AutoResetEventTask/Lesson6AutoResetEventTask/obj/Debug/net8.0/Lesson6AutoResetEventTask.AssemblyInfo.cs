@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson6AutoResetEventTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11714180a952a5006e4b4959dbab1497e3a9b2cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24357ac6c45d169d7ab70d5f28aa00bdf4846f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson6AutoResetEventTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson6AutoResetEventTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
