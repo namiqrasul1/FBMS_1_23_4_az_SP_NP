@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\bin\Debug\net8.0\ClientCode.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\bin\Debug\net8.0\ClientCode.deps.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\bin\Debug\net8.0\ClientCode.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\bin\Debug\net8.0\ClientCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\bin\Debug\net8.0\ClientCode.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\refint\ClientCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ClientCode.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ClientCode\obj\Debug\net8.0\ref\ClientCode.dll

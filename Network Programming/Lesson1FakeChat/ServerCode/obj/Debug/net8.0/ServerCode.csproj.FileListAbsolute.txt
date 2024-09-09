@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\bin\Debug\net8.0\ServerCode.exe
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\bin\Debug\net8.0\ServerCode.deps.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\bin\Debug\net8.0\ServerCode.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\bin\Debug\net8.0\ServerCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\bin\Debug\net8.0\ServerCode.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\refint\ServerCode.dll
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.pdb
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ServerCode.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBMS_1_23_4_az_SP_NP\Network Programming\Lesson1FakeChat\ServerCode\obj\Debug\net8.0\ref\ServerCode.dll

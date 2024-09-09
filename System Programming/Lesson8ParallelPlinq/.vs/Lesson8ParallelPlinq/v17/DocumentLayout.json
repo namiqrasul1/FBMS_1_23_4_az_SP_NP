@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\fakers\\initalizestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\fakers\\initalizestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\system programming\\lesson8parallelplinq\\lesson8parallelplinq\\lesson8parallelplinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D917221F-A6FD-413F-9901-BCECE638C5E0}|Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj|solutionrelative:lesson8parallelplinq\\lesson8parallelplinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Program.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAHEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:18:24.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Models\\AddStudentDto.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\AddStudentDto.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Models\\AddStudentDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:20:48.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Data\\LibraryContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:58:23.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\Author.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:58:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson8ParallelPlinq",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Lesson8ParallelPlinq.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T06:57:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitalizeStudents.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Fakers\\InitalizeStudents.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Fakers\\InitalizeStudents.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Fakers\\InitalizeStudents.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Fakers\\InitalizeStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:34:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lesson8ParallelPlinq\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\System Programming\\Lesson8ParallelPlinq\\Lesson8ParallelPlinq\\Models\\Student.cs",
+              "RelativeToolTip": "Lesson8ParallelPlinq\\Models\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:23:44.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
