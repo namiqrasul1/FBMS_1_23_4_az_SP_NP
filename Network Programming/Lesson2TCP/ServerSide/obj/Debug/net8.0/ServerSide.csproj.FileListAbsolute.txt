@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\bin\Debug\net8.0\ServerSide.exe
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\bin\Debug\net8.0\ServerSide.deps.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\bin\Debug\net8.0\ServerSide.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\bin\Debug\net8.0\ServerSide.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\bin\Debug\net8.0\ServerSide.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.sourcelink.json
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\refint\ServerSide.dll
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.pdb
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ServerSide.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBAS_Nov_23_7_az_ORM\Lesson2TCP\ServerSide\obj\Debug\net8.0\ref\ServerSide.dll
