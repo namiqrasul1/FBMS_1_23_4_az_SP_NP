@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8BE3093F-4D13-4755-A67B-C302F9E79B70}|ClientCode\\ClientCode.csproj|solutionrelative:clientcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C7CA23-67F9-43AB-987B-9152D8F06232}|ServerCode\\ServerCode.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_1_23_4_az_sp_np\\network programming\\lesson1fakechat\\servercode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C7CA23-67F9-43AB-987B-9152D8F06232}|ServerCode\\ServerCode.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\Network Programming\\Lesson1FakeChat\\servercode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C7CA23-67F9-43AB-987B-9152D8F06232}|ServerCode\\ServerCode.csproj|solutionrelative:servercode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ServerCode\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\Network Programming\\Lesson1FakeChat\\ServerCode\\Program.cs",
               "RelativeToolTip": "ServerCode\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAANAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T06:39:02.789Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "ClientCode\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_1_23_4_az_SP_NP\\Network Programming\\Lesson1FakeChat\\ClientCode\\Program.cs",
               "RelativeToolTip": "ClientCode\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T06:38:46.729Z",
               "EditorCaption": ""
