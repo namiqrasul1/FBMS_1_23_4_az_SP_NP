@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson3UDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDC631A-1A6B-480F-8407-E434AD03C62E}|UdpClientClient\\UdpClientClient.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_sp_np\\system programming\\lesson3udp\\udpclientclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDC631A-1A6B-480F-8407-E434AD03C62E}|UdpClientClient\\UdpClientClient.csproj|solutionrelative:udpclientclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A4CE99-1A71-4FE5-9922-0C618209FA11}|UdpClientServer\\UdpClientServer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_sp_np\\system programming\\lesson3udp\\udpclientserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A4CE99-1A71-4FE5-9922-0C618209FA11}|UdpClientServer\\UdpClientServer.csproj|solutionrelative:udpclientserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson3UDP\\UdpClientServer\\Program.cs",
+              "RelativeDocumentMoniker": "UdpClientServer\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson3UDP\\UdpClientServer\\Program.cs",
+              "RelativeToolTip": "UdpClientServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:15:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson3UDP\\UdpClientClient\\Program.cs",
+              "RelativeDocumentMoniker": "UdpClientClient\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson3UDP\\UdpClientClient\\Program.cs",
+              "RelativeToolTip": "UdpClientClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:11:04.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
